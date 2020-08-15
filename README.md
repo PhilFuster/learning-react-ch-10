@@ -1,3 +1,6 @@
+# Chapter 10 of Learning React by Eve Porcello & Alex Banks
+Testing in React.
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
